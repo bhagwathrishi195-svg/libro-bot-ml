@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#153e35" />
+  <title>LibroBot — MANIT Central Library</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <div class="brand-mark" aria-label="Library emblem"><span>MA</span></div>
+    <div class="logo-stack">
+      <span class="logo-eyebrow">MANIT Bhopal · Central Library</span>
+      <div class="logo-title">LibroBot</div>
+      <div class="logo-sub">Library guide: issue, fines, timings, resources</div>
+    </div>
+    <div class="header-rule"></div>
+  </header>
+
+  <main class="chat-wrap">
+    <section class="chat-box" id="chatBox" aria-live="polite">
+      <div class="welcome-card" id="welcomeCard">
+        <div class="wc-icon">📚</div>
+        <div>
+          <h3>Welcome to the MANIT Central Library</h3>
+          <p>I am <strong>LibroBot</strong>. Ask me how to <strong>issue books</strong>, calculate a <strong>fine</strong> or <strong>due date</strong>, check whether the library is <strong>open now</strong>, find a subject's <strong>floor</strong>, or explore e-resources, services and contacts.</p>
+        </div>
+      </div>
+    </section>
+    <section class="quick-query-panel" aria-label="Predefined queries">
+      <div class="quick-panel-heading"><span>Quick questions</span><small>Choose a topic</small></div>
+      <div class="quick-chips" id="quickQueryDock"></div>
+    </section>
+    <div class="mode-hint" id="modeHint"></div>
+    <form class="input-bar" onsubmit="event.preventDefault();sendMessage();">
+      <textarea class="input-field" id="userInput" placeholder="Ask about the MANIT Central Library…" rows="1" onkeydown="handleKey(event)" oninput="autoResize(this)" aria-label="Your question"></textarea>
+      <button class="send-btn" id="sendBtn" type="submit" title="Send message" aria-label="Send message">➤</button>
+    </form>
+  </main>
+
+  <footer><span class="footer-dot"></span><a href="https://library.manit.ac.in/" target="_blank" rel="noopener noreferrer">MANIT Central Library website</a></footer>
+  <script src="js/config.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

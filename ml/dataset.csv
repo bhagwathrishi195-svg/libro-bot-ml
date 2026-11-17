@@ -1,0 +1,598 @@
+text,intent
+Hi,greeting
+Hello,greeting
+Hey there,greeting
+Good morning,greeting
+Good afternoon,greeting
+Good evening,greeting
+Namaste,greeting
+Hi LibroBot,greeting
+Hello library assistant,greeting
+Hey bot,greeting
+Hii,greeting
+Hellooo,greeting
+Greetings,greeting
+How are you?,greeting
+Who are you?,greeting
+What are you?,greeting
+Introduce yourself,greeting
+What is your name?,greeting
+Yo,greeting
+Hiya,greeting
+Good day,greeting
+Hello sir,greeting
+Namaste bhai,greeting
+Kya hal hai,greeting
+Kaise ho bot,greeting
+Hlo,greeting
+Hy,greeting
+Good mrng,greeting
+Nice to meet you,greeting
+Hey assistant,greeting
+Welcome,greeting
+Hi friend,greeting
+Hello MANIT library,greeting
+Hey LibroBot,greeting
+Help,help
+Menu,help
+What can you do?,help
+What can you help me with?,help
+Show options,help
+Features,help
+Topics,help
+Commands,help
+What do you know?,help
+How to use this bot?,help
+Guide me,help
+Start,help
+Start over,help
+All topics,help
+List topics,help
+Capabilities,help
+How can you assist me?,help
+Tell me what you do,help
+Madad chahiye,help
+Help karo,help
+Kya kya pooch sakte hain,help
+Show me what you can answer,help
+Assist me,help
+Help please,help
+Thanks,thanks
+Thank you,thanks
+Thankyou,thanks
+Thx,thanks
+Ok thanks,thanks
+Great,thanks
+Awesome,thanks
+Nice,thanks
+Good bot,thanks
+Helpful,thanks
+Bye,thanks
+Goodbye,thanks
+See you,thanks
+Good night,thanks
+Thanks a lot,thanks
+Thank you so much,thanks
+Shukriya,thanks
+Dhanyawad,thanks
+Okay bye,thanks
+That helped a lot thanks,thanks
+Cool thanks,thanks
+Appreciate it,thanks
+Bye bye,thanks
+About library,about
+About the library,about
+Tell me about the library,about
+Library history,about
+When was the library established?,about
+Central library MANIT,about
+Maulana Azad library,about
+Library information,about
+Library details,about
+Overview of library,about
+Library introduction,about
+Who runs the central library?,about
+Tell me about MANIT Central Library,about
+Central library ke baare me batao,about
+What is MANIT central library?,about
+Open now,open_now
+Is the library open?,open_now
+Is library open?,open_now
+Is it open?,open_now
+Are you open?,open_now
+Open today,open_now
+Open right now,open_now
+Currently open?,open_now
+Open at this time?,open_now
+Is the library closed now?,open_now
+Is library closed now?,open_now
+Closed now?,open_now
+Library open today?,open_now
+Is the library open on Saturday?,open_now
+Is the library open on Sunday?,open_now
+Abhi library khuli hai kya?,open_now
+Kya aaj library open hai?,open_now
+Is reading room open right now?,open_now
+Is circulation counter open now?,open_now
+Check if library is open,open_now
+What are the library timings?,timings
+Library timing,timings
+Opening hours,timings
+Closing hours,timings
+Opening time,timings
+Closing time,timings
+Working hours,timings
+Library hours,timings
+Schedule,timings
+Timetable,timings
+When does library open?,timings
+When does the library open?,timings
+When does library close?,timings
+When does the library close?,timings
+Library closing time on weekdays,timings
+Till what time can I get books issued?,timings
+What time does the library close in the evening?,timings
+Is the circulation counter open on Saturday?,timings
+Library working hours,timings
+Until what time is outer reading area open?,timings
+Exam time library hours,timings
+Does library stay open till midnight during exams?,timings
+Monday timings,timings
+Tuesday timings,timings
+Wednesday timings,timings
+Thursday timings,timings
+Friday timings,timings
+Saturday timings,timings
+Reading room timing,timings
+Circulation timing,timings
+libary timmings,timings
+library kab khulti hai,timings
+library band hone ka time kya hai,timings
+library timing batao,timings
+subah kitne baje khulti hai library,timings
+How do I issue a book?,issue
+Issue book,issue
+Issue a book,issue
+How to issue,issue
+How to issue book,issue
+How to issue a book,issue
+Borrow book,issue
+How to borrow,issue
+I want to take a book home,issue
+Get a book,issue
+Book issue,issue
+Book issuing,issue
+Lending process,issue
+Check out a book,issue
+Issue procedure,issue
+Issue process,issue
+Issue steps,issue
+How can I take a book?,issue
+How to get a book issued?,issue
+What is the process to borrow a book?,issue
+how to isue a book,issue
+book kaise issue kare,issue
+kitab issue karne ka tarika,issue
+steps to borrow books,issue
+Return book,return_book
+How to return,return_book
+Return a book,return_book
+Book return,return_book
+Return process,return_book
+Return procedure,return_book
+Submit book,return_book
+Submit the book,return_book
+Deposit book,return_book
+Where do I return my issued book?,return_book
+How to submit borrowed book?,return_book
+Book return karne ka process kya hai,return_book
+Return rules for books,return_book
+Renew,renew
+Renewal,renew
+Renew book,renew
+Renew my book,renew
+How do I renew a book?,renew
+Extend due date,renew
+Extension,renew
+Extend book,renew
+Temporary extension,renew
+Out of station,renew
+"I am going out of station, can I extend my due date?",renew
+Can I renew my book online or at desk?,renew
+How many times can a book be renewed?,renew
+Book renew kaise kare,renew
+Due date extend ho sakti hai kya?,renew
+Book recall policy,renew
+Loan privileges,loan
+Borrowing limit,loan
+How many books can a UG student borrow?,loan
+How many books can a faculty member take?,loan
+Book limit,loan
+Issue limit,loan
+Number of books allowed,loan
+Maximum books,loan
+Borrowing privilege,loan
+Books per student,loan
+How many books can I borrow?,loan
+Entitlement,loan
+Loan limit for PG students,loan
+How many books can PhD scholars issue?,loan
+kitni book issue kar sakte hain,loan
+ek student kitni kitab le sakta hai,loan
+Book bank,book_bank
+Bookbank,book_bank
+How can I get a book from Book Bank?,book_bank
+Semester book,book_bank
+Economically weaker section books,book_bank
+EWS book bank,book_bank
+SC ST book bank,book_bank
+Free textbook for semester,book_bank
+Book bank rules,book_bank
+How many books are issued in Book Bank?,book_bank
+Book bank facility in MANIT,book_bank
+Membership,membership
+Member,membership
+How do I become a library member?,membership
+Join library,membership
+Register for library,membership
+Registration,membership
+Enroll,membership
+Sign up,membership
+Apply for membership,membership
+Membership form,membership
+Library card,membership
+ID card,membership
+New member,membership
+New student registration,membership
+Who is eligible for membership?,membership
+What documents are needed for a library card?,membership
+How can I get a new library card?,membership
+Documents required for library card,membership
+Library card kaise banwaye,membership
+Membership form link,membership
+How to get library card,membership
+What if I lose a book?,lost
+If I lose my book,lost
+Lose a book,lost
+Lose my card,lost
+Lost library card,lost
+Lost book,lost
+Lost ID,lost
+Damaged book,lost
+Book lost,lost
+Book damaged,lost
+Card lost,lost
+Replacement card,lost
+Duplicate card,lost
+Torn book,lost
+Misplaced book,lost
+Fine for lost library card,lost
+Library card kho gaya to kya kare,lost
+Book gum ho gayi hai kya karna hoga,lost
+No dues,no_dues
+Nodues,no_dues
+Clearance,no_dues
+Clearance certificate,no_dues
+How to get a no dues certificate?,no_dues
+No due certificate,no_dues
+Leaving institute,no_dues
+Passing out clearance,no_dues
+Degree clearance,no_dues
+Retiring clearance,no_dues
+Library no dues form kahan se milega,no_dues
+No dues process for graduating students,no_dues
+Pay fine,pay_fine
+How do I pay my fine online?,pay_fine
+Pay my fine,pay_fine
+Pay library fine,pay_fine
+Pay dues,pay_fine
+Online payment,pay_fine
+SBI Collect,pay_fine
+sbicollect,pay_fine
+How to pay fine,pay_fine
+Fine payment,pay_fine
+Payment of fine,pay_fine
+Pay charges online,pay_fine
+SBI collect steps for fine,pay_fine
+Online fine kaise bhare,pay_fine
+Fine payment portal link,pay_fine
+Fine,fine
+How is the library fine calculated?,fine
+Calculation of fine,fine
+Fine calculation,fine
+Calculate fine,fine
+Calculate my fine,fine
+Fine amount,fine
+Late fine,fine
+Overdue fine,fine
+Penalty,fine
+Late fee,fine
+Late charge,fine
+Overdue charge,fine
+Fine for 15 days,fine
+Fine for 10 days 3 books,fine
+Tell me fine for my 14 days overdue book,fine
+"My book is overdue by 30 days, how much do I pay?",fine
+What happens if I return a book late?,fine
+"My book is late, what will I owe?",fine
+Fine per day,fine
+Fine rate,fine
+fien calculation,fine
+late return fine kitna hai,fine
+14 din late book ka fine batao,fine
+book overdue fine,fine
+Due date,due_date
+Return date,due_date
+Issue date,due_date
+Calculate due date,due_date
+Calculate my book due date,due_date
+Last date to return,due_date
+Return deadline,due_date
+When should I return a book issued on 1 Nov 2026?,due_date
+How many days can I keep a book?,due_date
+When is my book due?,due_date
+Loan period,due_date
+How long can I keep a book?,due_date
+Book due date,due_date
+Issued on 15-10-2026,due_date
+Borrowed on,due_date
+Issue period,due_date
+Due date calculator,due_date
+Book kab return karni hai,due_date
+Due date kaise nikale,due_date
+Rules,rules
+What are the library rules?,rules
+General rules,rules
+Library rule,rules
+Regulations,rules
+Library policy,rules
+Entry rules,rules
+Can I use my mobile phone inside the library?,rules
+Is food allowed in the library?,rules
+Am I allowed to carry my bag inside the reading hall?,rules
+Can visitors from other colleges enter the library?,rules
+Where do I deposit my bag?,rules
+Pin drop silence,rules
+Belongings,rules
+Property counter rule,rules
+What can I carry inside?,rules
+Dress code,rules
+Conduct and discipline,rules
+Guest visitor permission,rules
+Carry laptop,rules
+Library ke rules kya hain,rules
+Kya phone allowed hai library me?,rules
+Floor plan,floor
+Show me the library floor plan,floor
+Floor map,floor
+Building layout,floor
+Part A,floor
+Part B,floor
+Part C,floor
+Ground floor,floor
+First floor,floor
+Second floor,floor
+What is on the ground floor?,floor
+What is on the first floor?,floor
+What is on the second floor?,floor
+Library layout,floor
+What is where,floor
+Sections of library,floor
+Library floor directory,floor
+Library ka floor plan dikhao,floor
+Ground floor par kya kya hai,floor
+Where is Computer Science?,subject
+Which floor has mechanical engineering books?,subject
+Where are the newspapers kept?,subject
+Where can I find civil engineering books?,subject
+Where can I find books on electronics and communication?,subject
+On which floor is the book bank?,subject
+where is mechnical engineering,subject
+Where is Electrical Engineering section?,subject
+Which floor has Metallurgy books?,subject
+Where are Management books kept?,subject
+Location of Architecture books,subject
+Where is Chemical Engineering?,subject
+Where are Physics and Chemistry books?,subject
+Where is the Reference Section?,subject
+Where are Hindi literature books?,subject
+Where is the BIS Corner?,subject
+Where is the Circulation Desk?,subject
+Where is the Kibo station?,subject
+Where are competitive exam books like GATE?,subject
+CSE ki books kis floor par hain,subject
+Mechanical books kahan milengi,subject
+Where are independent cubicles?,subject
+Facilities,facilities
+What facilities does the library offer?,facilities
+What facilities does the library have?,facilities
+Amenities,facilities
+WiFi,facilities
+Internet facility,facilities
+Drinking water,facilities
+Washroom,facilities
+Restroom,facilities
+Study cubicle,facilities
+Group discussion area,facilities
+GD area,facilities
+Multipurpose hall,facilities
+Kibo inclusive access,facilities
+Visually impaired facilities,facilities
+Where do I sit and study quietly?,facilities
+Library me kya kya facilities hain,facilities
+Quiet study space in library,facilities
+Databases,databases
+Does the library have Scopus?,databases
+Which databases does the library subscribe to?,databases
+CMIE Prowess,databases
+JoVE,databases
+IndiaStat,databases
+Perlego,databases
+How do I get an account for Perlego?,databases
+Sage Research Methods,databases
+Sage Business Cases,databases
+EBSCO,databases
+CBS e-books,databases
+Subscribed databases,databases
+Trial access,databases
+BIS standards,databases
+Subscribed resource list,databases
+eJournals,ejournals
+e-journals,ejournals
+How can I access e-journals?,ejournals
+Journals,ejournals
+ONOS,ejournals
+One Nation One Subscription,ejournals
+Cambridge Core,ejournals
+Sage journals,ejournals
+De Gruyter Brill,ejournals
+Research paper access,ejournals
+Full text journal articles,ejournals
+Online journals kaise padhe,ejournals
+eBooks,ebooks
+e-books,ebooks
+Can I read e-books online?,ebooks
+Online books,ebooks
+Digital books,ebooks
+Hindi e-books,ebooks
+e-Newspapers,ebooks
+e-Magazines,ebooks
+Open access resources,ebooks
+OA resources,ebooks
+Online magazines and newspapers,ebooks
+Thesis,thesis
+Theses,thesis
+Where can I find MANIT theses?,thesis
+Dissertation,thesis
+Shodhganga,thesis
+Shodhgangotri,thesis
+PhD thesis,thesis
+IDR,thesis
+Institutional repository,thesis
+News clippings repository,thesis
+MANIT PhD theses online,thesis
+Remote access,remote
+How do I access resources from home?,remote
+MyLOFT,remote
+My LOFT,remote
+Off campus access,remote
+Access from home,remote
+Access outside campus,remote
+Can I read journals from my hostel?,remote
+Remote login for e-resources,remote
+Ghar se e-resources kaise access kare,remote
+Hostel se MyLOFT kaise chalaye,remote
+Catalogue,catalogue
+How do I search the e-catalogue?,catalogue
+e-Catalogue,catalogue
+OPAC,catalogue
+Koha,catalogue
+LibCat,catalogue
+Search a book,catalogue
+Find a book,catalogue
+Book availability,catalogue
+Is the book available?,catalogue
+My account login,catalogue
+New arrivals,catalogue
+Shelve guide,catalogue
+Call number,catalogue
+Special collections,catalogue
+Library me book available hai ya nahi kaise check kare,catalogue
+Digital resources,digital
+What digital resources are available?,digital
+Online resources,digital
+Electronic resources,digital
+e-Resources,digital
+Online library,digital
+Digital library,digital
+QR code access,digital
+Library website,digital
+Collection,digital
+What resources does the library have?,digital
+Digital facilities overview,digital
+Research support,research
+Which research support services are available?,research
+Research help,research
+Research tools,research
+APC support,research
+Article processing charge,research
+How to guides,research
+IRINS faculty profile,research
+Scopus dashboard,research
+Publication support,research
+Citation help,research
+Ask a librarian,research
+Reference service,research
+Mendeley,research
+Zotero,research
+Plagiarism,plagiarism
+How to check plagiarism?,plagiarism
+Similarity check,plagiarism
+Turnitin,plagiarism
+DrillBit,plagiarism
+How can I check my thesis for similarity?,plagiarism
+Plagiarism report,plagiarism
+Similarity report,plagiarism
+Turnitin account,plagiarism
+Thesis plagiarism check kaise kare,plagiarism
+Request a material,request_material
+How can I request a book that is not in the library?,request_material
+Inter library loan,request_material
+ILL,request_material
+Book not available in library,request_material
+Suggest a book,request_material
+How can I suggest a book for the library to buy?,request_material
+Purchase request,request_material
+Recommend a book,request_material
+Document delivery,request_material
+Full text request,request_material
+Acquisition request,request_material
+Orientation session,session
+Do you provide orientation sessions?,session
+Can the library arrange a training for my class?,session
+Request a session,session
+User awareness program,session
+Training session,session
+Library tour,session
+Induction,session
+Workshop,session
+Library events,session
+Library bulletin,session
+Photo gallery,session
+Contact,contact
+How do I contact the library?,contact
+What is the library email id?,contact
+Phone number of circulation desk,contact
+Where is the library located?,contact
+Who is the librarian?,contact
+Give me the phone number of the library,contact
+How can I send feedback to the library?,contact
+Email address,contact
+Helpline number,contact
+Circulation email,contact
+Library address,contact
+Route map,contact
+How to reach library,contact
+Library ka phone number aur email batao,contact
+Social media,social
+Show library social media links,social
+Library instagram page,social
+Instagram,social
+Facebook,social
+Twitter,social
+X account,social
+LinkedIn,social
+YouTube,social
+Flickr photo albums,social
+Official social handles,social
+Library ka insta page,social
+Holidays,holidays
+Is the library closed on holidays?,holidays
+Holiday calendar,holidays
+Holiday list 2026,holidays
+Institute holiday,holidays
+Public holiday,holidays
+Vacation hours,holidays
+Summer vacation,holidays
+Winter break,holidays
+Chhutti ke din library khulti hai kya,holidays

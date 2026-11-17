@@ -1,0 +1,25 @@
+/* LibroBot — Frontend UI Quick Chips (All NLU, Entity Extraction & Knowledge live in Python ML Backend) */
+const QUICK_CHIPS = [
+  { label:'📖 How to Issue Books', text:'How do I issue a book?' },
+  { label:'🧮 Fine Calculator', text:'How is the library fine calculated?' },
+  { label:'📅 Due Date Calculator', text:'Calculate my book due date' },
+  { label:'🟢 Open Now?', text:'Is the library open now?' },
+  { label:'⏰ Timings', text:'What are the library timings?' },
+  { label:'🎓 Membership', text:'How do I become a library member?' },
+  { label:'📚 Loan Limits', text:'How many books can I borrow?' },
+  { label:'🔁 Renew / Return', text:'How do I renew or return a book?' },
+  { label:'💳 Pay Fine Online', text:'How do I pay my fine online?' },
+  { label:'🗺️ Floor Plan', text:'Show me the library floor plan.' },
+  { label:'🔎 Find a Subject', text:'Where is Computer Science?' },
+  { label:'🔍 Search Catalogue', text:'How do I search the e-catalogue?' },
+  { label:'💻 Digital Resources', text:'What digital resources are available?' },
+  { label:'🏠 Remote Access', text:'How do I access resources from home?' },
+  { label:'🛡️ Plagiarism Check', text:'How do I check plagiarism?' },
+  { label:'📨 Request a Book', text:'How can I request a book or article?' },
+  { label:'📏 Rules', text:'What are the library rules?' },
+  { label:'🏛️ Facilities', text:'What facilities does the library have?' },
+  { label:'🧾 No Dues', text:'How do I get a no dues certificate?' },
+  { label:'🆘 Lost Card / Book', text:'What if I lose a book or my library card?' },
+  { label:'📞 Contact', text:'How do I contact the library?' },
+  { label:'🌐 Social Media', text:'Show library social media links' }
+];
